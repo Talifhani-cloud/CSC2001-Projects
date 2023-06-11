@@ -1,0 +1,15 @@
+node38 node34 2
+node6 node19 9
+node35 node20 5
+node5 node11 2
+node19 node10 3
+node29 node34 2
+node8 node34 9
+node29 node19 1
+node30 node8 2
+node46 node2 10
+node48 node16 6
+node21 node47 1
+node21 node34 1
+node31 node5 10
+node1 node47 2

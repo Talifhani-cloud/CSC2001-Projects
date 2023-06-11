@@ -1,0 +1,15 @@
+node1 node7 4
+node22 node31 7
+node25 node3 1
+node8 node38 5
+node4 node37 6
+node20 node23 7
+node37 node24 5
+node28 node18 10
+node2 node37 9
+node23 node33 7
+node18 node8 3
+node22 node35 5
+node35 node28 1
+node32 node4 7
+node15 node32 10

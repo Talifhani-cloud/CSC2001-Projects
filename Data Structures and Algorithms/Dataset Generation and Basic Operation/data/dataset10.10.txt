@@ -1,0 +1,10 @@
+node7 node0 2
+node1 node4 5
+node4 node7 8
+node0 node2 10
+node5 node7 1
+node8 node6 4
+node6 node1 7
+node5 node4 6
+node4 node6 6
+node1 node8 2

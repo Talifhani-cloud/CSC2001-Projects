@@ -1,0 +1,15 @@
+node5 node4 5
+node8 node18 8
+node4 node13 10
+node13 node7 9
+node17 node16 3
+node5 node9 8
+node11 node8 9
+node0 node8 10
+node14 node2 1
+node6 node16 5
+node10 node17 8
+node14 node16 5
+node13 node11 2
+node13 node15 2
+node11 node3 6
